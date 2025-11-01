@@ -1,9 +1,0 @@
-﻿  Building 'VT_demo' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
-  VT_demo.cpp
-  VT_demo.vcxproj -> D:\VTHex\VT-x\VT_demo\x64\Debug\VT_demo.sys
-  Done Adding Additional Store
-  Successfully signed: D:\VTHex\VT-x\VT_demo\x64\Debug\VT_demo.sys
-  
-  Driver is 'Universal'.
-  Inf2Cat task was skipped as there were no inf files to process
-  
